@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="3.3">
+<extension type="package" version="3.4" method="upgrade">
 	<name>Paket Bahasa Indonesia id-ID</name>
 	<packagename>id-ID</packagename>
-	<version>3.3.0.2</version>
-	<creationDate>April 2014</creationDate>
+	<version>3.4.0</version>
+	<creationDate>07-02-2015</creationDate>
 	<author>Tim Hanacaraka</author>
 	<authorEmail>admin@id-joomla.com</authorEmail>
 	<authorUrl>www.id-joomla.com</authorUrl>
-	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Paket Bahasa Indonesia</description>
   <files>

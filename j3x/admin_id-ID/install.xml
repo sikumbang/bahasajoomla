@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.3" client="administrator" type="language" method="upgrade">
+<extension version="3.4" client="administrator" type="language" method="upgrade">
 	<name>Bahasa Indonesia</name>
     <tag>id-ID</tag>
-    <version>3.3.0.2</version>
-    <creationDate>April 2014</creationDate>
+    <version>3.4.0</version>
+    <creationDate>07-02-2015</creationDate>
     <author>Tim Hanacaraka</author>
     <authorEmail>admin@id-joomla.com</authorEmail>
     <authorUrl>www.id-joomla.com</authorUrl>
-    <copyright>Hak Cipta (C) 2005 - 2013 Joomla Open Source Matters. Semua Hak dilindungi</copyright>
+    <copyright>Hak Cipta (C) 2005 - 2015 Joomla Open Source Matters. Semua Hak dilindungi</copyright>
     <license>Lisensi GNU General Public versi 2 atau lebih tinggi; lihat LICENSE.txt</license>
     <description>Paket Pemasangan Bahasa Indonesia untuk Administrator Joomla! 3</description>
 	<files>
