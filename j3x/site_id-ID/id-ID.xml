@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.3" client="site">
+<metafile version="3.4" client="site">
 	<name>Bahasa Indonesia</name>
-	<version>3.3.0.2</version>
-	<creationDate>April 2014</creationDate>
+	<version>3.4.0</version>
+	<creationDate>Februari 2015</creationDate>
 	<author>Tim Hanacaraka</author>
 	<authorEmail>admin@id-joomla.com</authorEmail>
 	<authorUrl>www.id-joomla.com</authorUrl>
-	<copyright>Hak Cipta (C) 2005 - 2014 Open Source Matters. Semua hak dilindungi.</copyright>
+	<copyright>Hak Cipta (C) 2005 - 2015 Open Source Matters. Semua hak dilindungi.</copyright>
 	<license>Lisensi GNU General Public versi 2 atau lebih; lihat LICENSE.txt</license>
 	<description>Bahasa Indonesia untuk Situs Joomla! 3</description>
 	<metadata>
