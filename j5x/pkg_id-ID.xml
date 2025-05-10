@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="package" method="upgrade">
+	<name>Paket Bahasa Indonesia (id-ID)</name>
+	<packagename>id-ID</packagename>
+	<version>5.2.4.1</version>
+	<creationDate>2025-05</creationDate>
+	<author>Tim Volunteer Bahasa Indonesia</author>
+	<authorEmail>admin@joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>(C) 2025 Open Source Matters, Inc.</copyright>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<url>https://github.com/joomla/joomla-cms</url>
+	<packager>Joomla! Project</packager>
+	<packagerurl>www.joomla.org</packagerurl>
+	<description><![CDATA[id-ID language pack]]></description>
+	<blockChildUninstall>true</blockChildUninstall>
+	<files>
+		<folder type="language" client="site" id="id-ID">language/id-ID</folder>
+		<folder type="language" client="administrator" id="id-ID">administrator/language/id-ID</folder>
+		<folder type="language" client="api" id="id-ID">api/language/id-ID</folder>
+	</files>
+	<updateservers>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">
+			https://update.joomla.org/language/translationlist_5.xml
+		</server>
+	</updateservers>
+</extension>
